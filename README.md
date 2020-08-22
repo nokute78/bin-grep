@@ -1,4 +1,9 @@
+
+
 # go-grep
+
+![Go](https://github.com/nokute78/bin-grep/workflows/Go/badge.svg)
+[![Go Report Card](https://goreportcard.com/badge/github.com/nokute78/bin-grep)](https://goreportcard.com/report/github.com/nokute78/bin-grep)
 
 A grep like tool for a binary file
 
